@@ -86,11 +86,11 @@
   <distributionManagement>
     <repository>
       <id>nexus</id>
-      <url>http://10.0.10.188:8081/repository/tesla-releases/</url>
+      <url>http://http://3.14.147.90:8081/repository/maven-releases/</url>
     </repository>
     <snapshotRepository>
       <id>nexus</id>
-      <url>http://10.0.10.188:8081/repository/tesla-snapshots/</url>
+      <url>http://http://3.14.147.90:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
 
